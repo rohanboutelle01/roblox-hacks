@@ -1,4 +1,6 @@
 -- B Tools script
+-- Note that BTools only effects your screen
+-- So it will not effect any one else in your server
 
 backpack = game:GetService("Players").LocalPlayer.Backpack
 
